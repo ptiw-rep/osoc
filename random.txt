@@ -1,3 +1,7 @@
  #%^&*AD 
+<<<<<<< HEAD
 editing random file
  extra editing random 
+=======
+once again editing random
+>>>>>>> new
